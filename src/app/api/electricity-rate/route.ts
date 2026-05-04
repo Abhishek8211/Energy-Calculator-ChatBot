@@ -22,6 +22,7 @@ const ELECTRICITY_RATES: Record<string, RateEntry> = {
   japan: { country: "Japan", rate_per_kwh: 31.0, currency: "¥" },
   china: { country: "China", rate_per_kwh: 0.54, currency: "¥" },
   "south korea": { country: "South Korea", rate_per_kwh: 120.0, currency: "₩" },
+  korea: { country: "South Korea", rate_per_kwh: 120.0, currency: "₩" },
   singapore: { country: "Singapore", rate_per_kwh: 0.33, currency: "S$" },
   indonesia: { country: "Indonesia", rate_per_kwh: 1444.0, currency: "Rp" },
   malaysia: { country: "Malaysia", rate_per_kwh: 0.57, currency: "RM" },

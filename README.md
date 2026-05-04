@@ -351,7 +351,7 @@ npm start
 
 ## 🗂️ Export Options
 
-| Format           | Description                                                                 |
+| Format           | Description                                                                  |
 | ---------------- | --------------------------------------------------------------------------- |
 | 📄 **PDF**       | Full report with device table, summary, and energy tips (jsPDF + autotable) |
 | 📊 **CSV**       | Spreadsheet-friendly export with device data and totals                     |
